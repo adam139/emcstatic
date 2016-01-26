@@ -1,4 +1,9 @@
+.navbar-brand {color:#FFFFFF}
 .label {color:#333333;}
 .over a {color:#387038;font-weight:600}
 .fenlei_a span {padding-right:3px;}
 .portlet .portletContent > ul > li a {text-decoration:none}
+body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::before
+{width:0}
+.portlet .portletContent > ul > li a::before {content:''}
+.portletNavigationTree .portletContent .navTreeLevel2 a {padding-left:50px}
