@@ -7,3 +7,4 @@ body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::bef
 {width:0}
 .portlet .portletContent > ul > li a::before {content:''}
 .portletNavigationTree .portletContent .navTreeLevel2 a {padding-left:50px}
+.bk-logo {display:none}
