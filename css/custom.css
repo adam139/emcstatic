@@ -12,3 +12,4 @@ body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::bef
 #right-nav {margin-right:20px;}
 #portaltab-diancijisuanji,.plone-toolbar-logo img,.bk-toolbar-active a.bk-logo {display:none}
 .preview pre {min-height:200px;max-height:480px;overflow:auto;}
+.livesearch-results{color: #000000;}
