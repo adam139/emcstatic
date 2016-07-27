@@ -16,4 +16,5 @@ body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::bef
 .livesearch-results{color: #000000;}
 .dropdown-menu .navTreeLevel2 {padding-left:10px}
 #workspace .tabcontent-lists {padding-left:12px;}
+#ajaxdisplay {margin-left:0;margin-right:0}
 
