@@ -1,12 +1,8 @@
-nav-tab > li > a {cursor:hand}
 .navbar-brand {color:#FFFFFF}
 .label {color:#333333;}
 .over a {color:#387038;font-weight:600}
 .fenlei_a span {padding-right:3px;}
 .portlet .portletContent > ul > li a {text-decoration:none}
-body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::before
-{width:0}
-.portlet .portletContent > ul > li a::before {content:''}
 .portletNavigationTree .portletContent .navTreeLevel2 a {padding-left:50px}
 .portletNavigationTree .portletContent .navTreeLevel3 a {padding-left:60px}
 .portletNavigationTree .portletContent .navTreeLevel4 a {padding-left:70px}
@@ -16,5 +12,6 @@ body#visual-portal-wrapper.pat-plone .outer-wrapper [class*="contenttype-"]::bef
 .livesearch-results{color: #000000;}
 .dropdown-menu .navTreeLevel2 {padding-left:10px}
 #workspace .tabcontent-lists {padding-left:12px;}
+#workspace a.text-center {cursor:pointer} 
 #ajaxdisplay {margin-left:0;margin-right:0}
 
